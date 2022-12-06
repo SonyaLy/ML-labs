@@ -5,13 +5,12 @@ ML labs of first year SPbSTU master's program
 
 + Lab 2. KNN
 
-Lab 3. Cluster
+Lab 3. SVM
 
-Lab 4. Boosting
+Lab 4. Tree
 
-Lab 5. Regression
++ Lab 5. Cluster
 
-Lab 6. Tree
+Lab 6. Regression
 
-Lab 7. SVM
-
+Lab 7. Boosting
