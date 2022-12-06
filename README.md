@@ -3,7 +3,7 @@ ML labs of first year SPbSTU master's program
 
 + Lab 1. NaiveBayesian
 
-Lab 2. KNN
++ Lab 2. KNN
 
 Lab 3. Cluster
 
