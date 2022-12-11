@@ -13,4 +13,4 @@ Lab 4. Tree
 
 Lab 6. Regression
 
-Lab 7. Boosting
++ Lab 7. Boosting
