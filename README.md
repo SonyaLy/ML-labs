@@ -7,7 +7,7 @@ ML labs of first year SPbSTU master's program
 
 Lab 3. SVM
 
-Lab 4. Tree
++ Lab 4. Tree
 
 + Lab 5. Cluster
 
