@@ -5,7 +5,7 @@ ML labs of first year SPbSTU master's program
 
 + Lab 2. KNN
 
-Lab 3. SVM
++ Lab 3. SVM
 
 + Lab 4. Tree
 
