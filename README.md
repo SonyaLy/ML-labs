@@ -11,6 +11,6 @@ Lab 3. SVM
 
 + Lab 5. Cluster
 
-Lab 6. Regression
++ Lab 6. Regression
 
 + Lab 7. Boosting
